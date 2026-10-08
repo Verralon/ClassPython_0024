@@ -16,3 +16,4 @@ class Rectangle:
 rect = Rectangle(3, 2)
 print(rect)
 print(f"Circumference: {rect.calculate_circumference()} cm")
+print(f"Area: {rect.calculate_area()} cm²")
