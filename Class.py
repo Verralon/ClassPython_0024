@@ -12,3 +12,5 @@ class Rectangle:
 
     def __str__(self):
         return f"rectangle, {self.length} cm long, and {self.width} cm wide"
+
+rect = Rectangle(3, 2)
